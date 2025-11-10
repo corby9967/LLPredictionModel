@@ -1,4 +1,4 @@
-# 수술 후 요추 전만각(Post-Surgery Lumbar Lordosis, LL) 예측 모델
+# 수술 후 요추 전만각(Post-Surgery Lumbar Lordosis) 예측 모델
 
 이 저장소는 수술 전 영상 및 임상 지표를 기반으로 **수술 후 요추 전만각(LL)** 을 예측하기 위한 딥러닝 회귀 모델을 포함합니다.
 
